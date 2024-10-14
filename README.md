@@ -18,7 +18,5 @@ I believe in "Hard work brings big rewards".
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ethando9999&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ethando9999/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/ethando9999)  
 
