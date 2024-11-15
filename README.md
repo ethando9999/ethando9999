@@ -1,7 +1,7 @@
 ![AI Engineer/Data Scientist ](https://i.pinimg.com/originals/04/8e/d4/048ed48666ab08672b8d0da8602ed4e1.jpg)
 
 # Chien Do 👋
-Hi Eveyboby! My name is Do Thanh Chien. I am a graduate student majoring Software Engineer. My passion is to be a AI Engineer and a professional Data Science. I am looking for a job that is related to AI Engineer, AI Developer or ML Algorithm. I want to learn more about applying data processing. algorithm,  AI and gen AI into real-world projects and improve my knowledge on the field.
+Hi Eveyboby! My name is Do Thanh Chien. My passion is to be a AI Engineer and a professional Data Science. I am looking for a job that is related to AI Engineer, AI Developer or ML Algorithm. I want to learn more about applying data processing. algorithm,  AI and gen AI into real-world projects and improve my knowledge on the field.
 I believe in "Hard work brings big rewards".
 
 ## Skills and Experience
